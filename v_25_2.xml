@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>15</id>
+      <name>v_25_2</name>
+      <size>100</size>
+      <mode>interpolation</mode>
+      <overlap>5</overlap>
+      <bugtracker></bugtracker>
+      <created>2020-10-13 13:15:21.018752+00:00</created>
+      <updated>2020-10-13 13:38:40.054662+00:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>99</stop_frame>
+      <frame_filter></frame_filter>
+      <z_order>False</z_order>
+      <labels>
+        <label>
+          <name>Person</name>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>14</id>
+          <start>0</start>
+          <stop>99</stop>
+          <url>http://default--default.40.81.229.81.xip.io/?id=14</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email></email>
+      </owner>
+      <assignee></assignee>
+      <original_size>
+        <width>1280</width>
+        <height>720</height>
+      </original_size>
+    </task>
+    <dumped>2020-10-13 13:38:48.101483+00:00</dumped>
+    <source>JIOPOINT_Addateegala_IE34_2020_09_2410_42_45_10_42_59.mp4</source>
+  </meta>
+  <track id="0" label="Person">
+    <box frame="5" outside="0" occluded="0" keyframe="1" xtl="284.86" ytl="98.50" xbr="447.27" ybr="534.80">
+    </box>
+    <box frame="6" outside="1" occluded="0" keyframe="1" xtl="284.86" ytl="98.50" xbr="447.27" ybr="534.80">
+    </box>
+  </track>
+  <track id="1" label="Person">
+    <box frame="5" outside="0" occluded="0" keyframe="1" xtl="405.98" ytl="61.34" xbr="502.32" ybr="205.86">
+    </box>
+    <box frame="6" outside="1" occluded="0" keyframe="1" xtl="405.98" ytl="61.34" xbr="502.32" ybr="205.86">
+    </box>
+  </track>
+  <track id="2" label="Person">
+    <box frame="5" outside="0" occluded="0" keyframe="1" xtl="494.06" ytl="75.11" xbr="620.69" ybr="259.54">
+    </box>
+    <box frame="6" outside="1" occluded="0" keyframe="1" xtl="494.06" ytl="75.11" xbr="620.69" ybr="259.54">
+    </box>
+  </track>
+  <track id="3" label="Person">
+    <box frame="6" outside="0" occluded="0" keyframe="1" xtl="279.35" ytl="95.75" xbr="444.52" ybr="533.43">
+    </box>
+    <box frame="7" outside="1" occluded="0" keyframe="1" xtl="279.35" ytl="95.75" xbr="444.52" ybr="533.43">
+    </box>
+  </track>
+  <track id="4" label="Person">
+    <box frame="6" outside="0" occluded="0" keyframe="1" xtl="416.99" ytl="59.97" xbr="499.57" ybr="190.72">
+    </box>
+    <box frame="7" outside="1" occluded="0" keyframe="1" xtl="416.99" ytl="59.97" xbr="499.57" ybr="190.72">
+    </box>
+  </track>
+  <track id="5" label="Person">
+    <box frame="6" outside="0" occluded="0" keyframe="1" xtl="506.45" ytl="77.86" xbr="622.06" ybr="225.13">
+    </box>
+    <box frame="7" outside="1" occluded="0" keyframe="1" xtl="506.45" ytl="77.86" xbr="622.06" ybr="225.13">
+    </box>
+  </track>
+</annotations>
