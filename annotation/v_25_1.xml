@@ -3,14 +3,14 @@
   <version>1.1</version>
   <meta>
     <task>
-      <id>14</id>
-      <name>v_25_1</name>
+      <id>23</id>
+      <name>video_annotation_git_new1</name>
       <size>100</size>
       <mode>interpolation</mode>
       <overlap>5</overlap>
       <bugtracker></bugtracker>
-      <created>2020-10-13 13:14:52.748677+00:00</created>
-      <updated>2020-10-13 13:34:03.158573+00:00</updated>
+      <created>2020-10-14 05:17:37.372472+00:00</created>
+      <updated>2020-10-15 10:37:10.887901+00:00</updated>
       <start_frame>0</start_frame>
       <stop_frame>99</stop_frame>
       <frame_filter></frame_filter>
@@ -24,10 +24,10 @@
       </labels>
       <segments>
         <segment>
-          <id>13</id>
+          <id>18</id>
           <start>0</start>
           <stop>99</stop>
-          <url>http://default--default.40.81.229.81.xip.io/?id=13</url>
+          <url>http://default--default.40.81.229.81.xip.io/?id=18</url>
         </segment>
       </segments>
       <owner>
@@ -40,31 +40,307 @@
         <height>720</height>
       </original_size>
     </task>
-    <dumped>2020-10-13 13:43:46.866160+00:00</dumped>
-    <source>JIOPOINT_3Str_IZRX_2020_09_2412_02_13_12_02_33.mp4</source>
+    <dumped>2020-10-15 10:38:58.642107+00:00</dumped>
+    <source>v_25_1.mp4</source>
   </meta>
   <track id="0" label="Person">
-    <box frame="5" outside="0" occluded="0" keyframe="1" xtl="349.55" ytl="66.85" xbr="571.14" ybr="438.46">
+    <box frame="5" outside="0" occluded="0" keyframe="1" xtl="346.00" ytl="64.00" xbr="566.00" ybr="431.00">
     </box>
-    <box frame="6" outside="1" occluded="0" keyframe="1" xtl="349.55" ytl="66.85" xbr="571.14" ybr="438.46">
+    <box frame="6" outside="1" occluded="0" keyframe="1" xtl="346.00" ytl="64.00" xbr="566.00" ybr="431.00">
     </box>
   </track>
   <track id="1" label="Person">
-    <box frame="5" outside="0" occluded="0" keyframe="1" xtl="761.59" ytl="26.44" xbr="926.71" ybr="303.20">
+    <box frame="6" outside="0" occluded="0" keyframe="1" xtl="344.00" ytl="60.00" xbr="564.00" ybr="427.00">
     </box>
-    <box frame="6" outside="1" occluded="0" keyframe="1" xtl="761.59" ytl="26.44" xbr="926.71" ybr="303.20">
+    <box frame="7" outside="1" occluded="0" keyframe="1" xtl="344.00" ytl="60.00" xbr="564.00" ybr="427.00">
     </box>
   </track>
   <track id="2" label="Person">
-    <box frame="6" outside="0" occluded="0" keyframe="1" xtl="355.05" ytl="77.86" xbr="569.76" ybr="437.08">
+    <box frame="7" outside="0" occluded="0" keyframe="1" xtl="344.00" ytl="64.00" xbr="564.00" ybr="431.00">
     </box>
-    <box frame="7" outside="1" occluded="0" keyframe="1" xtl="355.05" ytl="77.86" xbr="569.76" ybr="437.08">
+    <box frame="8" outside="1" occluded="0" keyframe="1" xtl="344.00" ytl="64.00" xbr="564.00" ybr="431.00">
     </box>
   </track>
   <track id="3" label="Person">
-    <box frame="6" outside="0" occluded="0" keyframe="1" xtl="752.29" ytl="31.09" xbr="936.02" ybr="296.22">
+    <box frame="8" outside="0" occluded="0" keyframe="1" xtl="344.00" ytl="72.00" xbr="564.00" ybr="439.00">
     </box>
-    <box frame="7" outside="1" occluded="0" keyframe="1" xtl="752.29" ytl="31.09" xbr="936.02" ybr="296.22">
+    <box frame="9" outside="1" occluded="0" keyframe="1" xtl="344.00" ytl="72.00" xbr="564.00" ybr="439.00">
+    </box>
+  </track>
+  <track id="4" label="Person">
+    <box frame="9" outside="0" occluded="0" keyframe="1" xtl="340.00" ytl="68.00" xbr="560.00" ybr="435.00">
+    </box>
+    <box frame="10" outside="1" occluded="0" keyframe="1" xtl="340.00" ytl="68.00" xbr="560.00" ybr="435.00">
+    </box>
+  </track>
+  <track id="5" label="Person">
+    <box frame="10" outside="0" occluded="0" keyframe="1" xtl="338.00" ytl="72.00" xbr="558.00" ybr="439.00">
+    </box>
+    <box frame="11" outside="1" occluded="0" keyframe="1" xtl="338.00" ytl="72.00" xbr="558.00" ybr="439.00">
+    </box>
+  </track>
+  <track id="6" label="Person">
+    <box frame="11" outside="0" occluded="0" keyframe="1" xtl="342.00" ytl="96.00" xbr="562.00" ybr="463.00">
+    </box>
+    <box frame="12" outside="1" occluded="0" keyframe="1" xtl="342.00" ytl="96.00" xbr="562.00" ybr="463.00">
+    </box>
+  </track>
+  <track id="7" label="Person">
+    <box frame="12" outside="0" occluded="0" keyframe="1" xtl="342.00" ytl="96.00" xbr="562.00" ybr="463.00">
+    </box>
+    <box frame="13" outside="1" occluded="0" keyframe="1" xtl="342.00" ytl="96.00" xbr="562.00" ybr="463.00">
+    </box>
+  </track>
+  <track id="8" label="Person">
+    <box frame="13" outside="0" occluded="0" keyframe="1" xtl="342.00" ytl="100.00" xbr="562.00" ybr="467.00">
+    </box>
+    <box frame="14" outside="1" occluded="0" keyframe="1" xtl="342.00" ytl="100.00" xbr="562.00" ybr="467.00">
+    </box>
+  </track>
+  <track id="9" label="Person">
+    <box frame="14" outside="0" occluded="0" keyframe="1" xtl="330.00" ytl="96.00" xbr="550.00" ybr="463.00">
+    </box>
+    <box frame="15" outside="1" occluded="0" keyframe="1" xtl="330.00" ytl="96.00" xbr="550.00" ybr="463.00">
+    </box>
+  </track>
+  <track id="10" label="Person">
+    <box frame="15" outside="0" occluded="0" keyframe="1" xtl="330.00" ytl="96.00" xbr="550.00" ybr="463.00">
+    </box>
+    <box frame="16" outside="1" occluded="0" keyframe="1" xtl="330.00" ytl="96.00" xbr="550.00" ybr="463.00">
+    </box>
+  </track>
+  <track id="11" label="Person">
+    <box frame="16" outside="0" occluded="0" keyframe="1" xtl="332.00" ytl="100.00" xbr="552.00" ybr="467.00">
+    </box>
+    <box frame="17" outside="1" occluded="0" keyframe="1" xtl="332.00" ytl="100.00" xbr="552.00" ybr="467.00">
+    </box>
+  </track>
+  <track id="12" label="Person">
+    <box frame="17" outside="0" occluded="0" keyframe="1" xtl="330.00" ytl="96.00" xbr="550.00" ybr="463.00">
+    </box>
+    <box frame="18" outside="1" occluded="0" keyframe="1" xtl="330.00" ytl="96.00" xbr="550.00" ybr="463.00">
+    </box>
+  </track>
+  <track id="13" label="Person">
+    <box frame="18" outside="0" occluded="0" keyframe="1" xtl="332.00" ytl="96.00" xbr="552.00" ybr="463.00">
+    </box>
+    <box frame="19" outside="1" occluded="0" keyframe="1" xtl="332.00" ytl="96.00" xbr="552.00" ybr="463.00">
+    </box>
+  </track>
+  <track id="14" label="Person">
+    <box frame="19" outside="0" occluded="0" keyframe="1" xtl="332.00" ytl="96.00" xbr="552.00" ybr="463.00">
+    </box>
+    <box frame="20" outside="1" occluded="0" keyframe="1" xtl="332.00" ytl="96.00" xbr="552.00" ybr="463.00">
+    </box>
+  </track>
+  <track id="15" label="Person">
+    <box frame="20" outside="0" occluded="0" keyframe="1" xtl="342.00" ytl="96.00" xbr="562.00" ybr="463.00">
+    </box>
+    <box frame="21" outside="1" occluded="0" keyframe="1" xtl="342.00" ytl="96.00" xbr="562.00" ybr="463.00">
+    </box>
+  </track>
+  <track id="16" label="Person">
+    <box frame="21" outside="0" occluded="0" keyframe="1" xtl="342.00" ytl="96.00" xbr="562.00" ybr="463.00">
+    </box>
+    <box frame="22" outside="1" occluded="0" keyframe="1" xtl="342.00" ytl="96.00" xbr="562.00" ybr="463.00">
+    </box>
+  </track>
+  <track id="17" label="Person">
+    <box frame="22" outside="0" occluded="0" keyframe="1" xtl="342.00" ytl="96.00" xbr="562.00" ybr="463.00">
+    </box>
+    <box frame="23" outside="1" occluded="0" keyframe="1" xtl="342.00" ytl="96.00" xbr="562.00" ybr="463.00">
+    </box>
+  </track>
+  <track id="18" label="Person">
+    <box frame="23" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="88.00" xbr="568.00" ybr="455.00">
+    </box>
+    <box frame="24" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="88.00" xbr="568.00" ybr="455.00">
+    </box>
+  </track>
+  <track id="19" label="Person">
+    <box frame="24" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="25" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="20" label="Person">
+    <box frame="25" outside="0" occluded="0" keyframe="1" xtl="350.00" ytl="92.00" xbr="570.00" ybr="459.00">
+    </box>
+    <box frame="26" outside="1" occluded="0" keyframe="1" xtl="350.00" ytl="92.00" xbr="570.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="21" label="Person">
+    <box frame="26" outside="0" occluded="0" keyframe="1" xtl="350.00" ytl="92.00" xbr="570.00" ybr="459.00">
+    </box>
+    <box frame="27" outside="1" occluded="0" keyframe="1" xtl="350.00" ytl="92.00" xbr="570.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="22" label="Person">
+    <box frame="27" outside="0" occluded="0" keyframe="1" xtl="350.00" ytl="92.00" xbr="570.00" ybr="459.00">
+    </box>
+    <box frame="28" outside="1" occluded="0" keyframe="1" xtl="350.00" ytl="92.00" xbr="570.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="23" label="Person">
+    <box frame="28" outside="0" occluded="0" keyframe="1" xtl="350.00" ytl="92.00" xbr="570.00" ybr="459.00">
+    </box>
+    <box frame="29" outside="1" occluded="0" keyframe="1" xtl="350.00" ytl="92.00" xbr="570.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="24" label="Person">
+    <box frame="29" outside="0" occluded="0" keyframe="1" xtl="350.00" ytl="92.00" xbr="570.00" ybr="459.00">
+    </box>
+    <box frame="30" outside="1" occluded="0" keyframe="1" xtl="350.00" ytl="92.00" xbr="570.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="25" label="Person">
+    <box frame="30" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="31" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="26" label="Person">
+    <box frame="31" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="32" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="27" label="Person">
+    <box frame="32" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="33" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="28" label="Person">
+    <box frame="33" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="34" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="29" label="Person">
+    <box frame="34" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="35" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="30" label="Person">
+    <box frame="35" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="36" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="31" label="Person">
+    <box frame="36" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="37" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="32" label="Person">
+    <box frame="37" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="38" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="33" label="Person">
+    <box frame="38" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="39" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="34" label="Person">
+    <box frame="39" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="40" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="35" label="Person">
+    <box frame="40" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="41" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="36" label="Person">
+    <box frame="41" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="42" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="37" label="Person">
+    <box frame="42" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="43" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="38" label="Person">
+    <box frame="43" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="44" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="39" label="Person">
+    <box frame="44" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="45" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="40" label="Person">
+    <box frame="45" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="46" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="41" label="Person">
+    <box frame="46" outside="0" occluded="0" keyframe="1" xtl="346.00" ytl="92.00" xbr="566.00" ybr="459.00">
+    </box>
+    <box frame="47" outside="1" occluded="0" keyframe="1" xtl="346.00" ytl="92.00" xbr="566.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="42" label="Person">
+    <box frame="47" outside="0" occluded="0" keyframe="1" xtl="346.00" ytl="92.00" xbr="566.00" ybr="459.00">
+    </box>
+    <box frame="48" outside="1" occluded="0" keyframe="1" xtl="346.00" ytl="92.00" xbr="566.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="43" label="Person">
+    <box frame="48" outside="0" occluded="0" keyframe="1" xtl="346.00" ytl="92.00" xbr="566.00" ybr="459.00">
+    </box>
+    <box frame="49" outside="1" occluded="0" keyframe="1" xtl="346.00" ytl="92.00" xbr="566.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="44" label="Person">
+    <box frame="49" outside="0" occluded="0" keyframe="1" xtl="346.00" ytl="92.00" xbr="566.00" ybr="459.00">
+    </box>
+    <box frame="50" outside="1" occluded="0" keyframe="1" xtl="346.00" ytl="92.00" xbr="566.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="45" label="Person">
+    <box frame="50" outside="0" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+    <box frame="51" outside="1" occluded="0" keyframe="1" xtl="348.00" ytl="92.00" xbr="568.00" ybr="459.00">
+    </box>
+  </track>
+  <track id="46" label="Person">
+    <box frame="1" outside="0" occluded="0" keyframe="1" xtl="346.00" ytl="64.00" xbr="566.00" ybr="431.00">
+    </box>
+    <box frame="2" outside="1" occluded="0" keyframe="1" xtl="346.00" ytl="64.00" xbr="566.00" ybr="431.00">
+    </box>
+  </track>
+  <track id="47" label="Person">
+    <box frame="2" outside="0" occluded="0" keyframe="1" xtl="346.00" ytl="64.00" xbr="566.00" ybr="431.00">
+    </box>
+    <box frame="3" outside="1" occluded="0" keyframe="1" xtl="346.00" ytl="64.00" xbr="566.00" ybr="431.00">
+    </box>
+  </track>
+  <track id="48" label="Person">
+    <box frame="3" outside="0" occluded="0" keyframe="1" xtl="346.00" ytl="64.00" xbr="566.00" ybr="431.00">
+    </box>
+    <box frame="4" outside="1" occluded="0" keyframe="1" xtl="346.00" ytl="64.00" xbr="566.00" ybr="431.00">
+    </box>
+  </track>
+  <track id="49" label="Person">
+    <box frame="4" outside="0" occluded="0" keyframe="1" xtl="346.00" ytl="64.00" xbr="566.00" ybr="431.00">
+    </box>
+    <box frame="5" outside="1" occluded="0" keyframe="1" xtl="346.00" ytl="64.00" xbr="566.00" ybr="431.00">
     </box>
   </track>
 </annotations>
